@@ -1,23 +1,25 @@
+About This Repository
+
 This repository contains supplementary materials for our paper:
 "A Novel Explainable Deep Learning Method Based on Spectral Co-Clustering for Ozone Time Series Forecasting."
 
 The paper introduces a deep learning framework for time series forecasting, focusing on ozone concentration prediction. Our approach enhances both accuracy and interpretability using spectral co-clustering. We also introduce XDeepSpecT, a novel explainability method that helps reveal key temporal dependencies and feature relationships.
 
 Contents
-📂 Datasets (Permission Required)
+Datasets (Permission Required)
 The datasets used in this study are included in this repository.
 
-⚠️ Important: If you want to use these datasets, you must request permission first.
+Important: If you want to use these datasets, you must request permission first.
 
-📂 Extended Explainability Tables
+Extended Explainability Tables
 Detailed tables showing the spectral co-clustering results for all stations.
 
-📂 Co-Clustering Outputs
+Co-Clustering Outputs
 The sub-groups (co-clusters) identified for each dataset.
 
 These outputs provide insights into how data is grouped based on spectral similarities.
 
-📂 High-Quality Figures (XDeepSpecT Visualizations)
+High-Quality Figures (XDeepSpecT Visualizations)
 High-resolution figures for all stations' data, showing the explainability results of XDeepSpecT.
 
 These figures illustrate how spectral co-clustering improves model interpretability.
@@ -30,9 +32,15 @@ Check the supplementary materials (tables, figures, and outputs) for more detail
 Contact us for dataset usage permissions before using the provided data.
 
 Citation
-If you use this work in your research, please cite our paper:
+This work is currently under review. If you find it useful, please acknowledge it as:
 
-📌 [Add citation format or DOI link here]
+Authors: Naeem Ullah, Francisco Mart´ınez- ´Alvarez, Ivanoe De Falco, Giovanna Sannino
+
+Title: A Novel Explainable Deep Learning Method Based on Spectral Co-Clustering for Ozone Time Series Forecasting
+
+Status: Under review (Submission in progress)
+
+Once the paper is published, We will update this section with the official citation and DOI.
 
 Contact
 For dataset access or any questions, feel free to reach out!
